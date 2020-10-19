@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class printSolidRectangle {
   public static void main(String[] args) {
-    java.util.Scanner sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
     System.out.println("Enter the number of rows : ");
     int rows = sc.nextInt();
     System.out.println("Enter the number of columns : ");
